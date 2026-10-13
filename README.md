@@ -59,4 +59,4 @@ I build software solutions integrating APIs, databases, web applications, and in
 
 [LinkedIn](https://www.linkedin.com/in/christian-boullon/)
 
-[Email](christian_boullon@hotmail.com)
+✉️ Email: christian_boullon@hotmail.com
