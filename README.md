@@ -1,5 +1,3 @@
-# Christian Boullón 👋
-
 **Ingeniero en Informática | Backend · Data Engineering · AI · Infrastructure**
 
 Desarrollo soluciones de software que integran APIs, bases de datos, aplicaciones web e infraestructura. También exploro técnicas de visión artificial y Deep Learning aplicadas al reconocimiento de gestos.
@@ -59,4 +57,6 @@ I build software solutions integrating APIs, databases, web applications, and in
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/christian-boullon/) · [GitHub](https://github.com/ChristianBnm)
+[LinkedIn](https://www.linkedin.com/in/christian-boullon/)
+
+[Email](christian_boullon@hotmail.com)
